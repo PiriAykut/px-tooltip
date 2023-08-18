@@ -10,9 +10,6 @@
     transition: opacity 0.25s;
     opacity: 0;
 
-    // &[aria-hidden="true"] {
-    //     display: none;
-    // }
 }
 
 .tooltip.is-visible {
