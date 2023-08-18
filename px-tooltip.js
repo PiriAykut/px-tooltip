@@ -7,3 +7,4 @@ $.fn.tooltip = window.$.fn.boost(window.$.fn.boost.tooltip.plugin, window.$.fn.b
 setTimeout(() => {
     $('[data-tooltip]').tooltip();
 }, 1500);
+
